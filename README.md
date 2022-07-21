@@ -4,7 +4,7 @@ A React-Typescript-based website for a fictional cybersecurity service company, 
 
 This front-end development project is built from scratch and focuses on the design and analysis of user-interfaces, including: user-centered design (UCD), prototyping (mock-ups, wireframes), UI patterns, visual/verbal communication, human cognition concepts, heuristic evaluation, Gestalt's Law, accessibility, and more.
 
-Link to the website: https://kienmarkdo.github.io/AzoCyber
+Link to the website: https://kienmarkdo.github.io/AzoCyber-Deliverable-1/
 
 ## Technologies and Tools used
 
