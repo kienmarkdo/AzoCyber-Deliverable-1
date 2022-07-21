@@ -75,7 +75,7 @@ function App() {
       <main className="bp4-dark">
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/AzoCyber/" element={<Home />} />
+          <Route path="/AzoCyber-Deliverable-1" element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/solutions" element={<Solutions />} />

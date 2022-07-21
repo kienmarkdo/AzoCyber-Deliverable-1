@@ -1,7 +1,7 @@
 {
   "name": "azo-cyber",
   "version": "0.1.0",
-  "homepage": "https://kienmarkdo.github.io/AzoCyber",
+  "homepage": "https://kienmarkdo.github.io/AzoCyber-Deliverable-1",
   "private": true,
   "dependencies": {
     "@blueprintjs/core": "^4.5.1",
